@@ -45,6 +45,7 @@ header {
 }
 
 .busca {
+    background-size: 100% 100%;
     background-image: url("../img/barcos.webp");
     background-position: center center;
     background-repeat: no-repeat;
